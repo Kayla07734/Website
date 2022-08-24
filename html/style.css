@@ -1,0 +1,38 @@
+h1 {
+    color: brown;
+    font-size: 30px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: bisque;
+    text-align: center;
+  }
+  a {
+    font-size: 15px;
+  }
+
+  p {
+    color: brown;
+    font-size: 20px;
+    font-family: cursive;
+  }
+
+
+  * {border : dotted;background-color: rgb(218, 186, 171);}
+  
+  .item p{
+    font-size: 20px;
+    color: rgb(34, 155, 155);
+  }
+
+  .item:hover img{
+opacity: 0.3;
+
+  }
+
+
+  a:link{
+    color: rgb(216, 95, 86);
+  }
+
+  a:visited{
+    color: rgb(99, 209, 108);
+  }
